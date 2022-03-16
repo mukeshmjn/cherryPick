@@ -43,7 +43,7 @@ docker run -it --name <name-of-container> <some-fency-name>
 docker stop <name-of-container>
 ```
 
-### Docker compose steps
+### Docker compose stepss
 - Build images
 ```
 docker-compose build
